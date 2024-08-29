@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "xyz@gmail.com",
+      "age": 23,
+      "course": "Computer Science"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "abc@gmail.com",
+      "age": 22,
+      "course": "Information Technology"
+    },
+    {
+      "id": "0cba",
+      "name": "muskan",
+      "email": "muskan.sirseit2020@gmail.com",
+      "age": "21",
+      "rollno": "37"
+    }
+  ]
+}
